@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Price,Total_Amount,Payment_Mode,City
+1001,2024-01-05,Rahul Sharma,Laptop,Electronics,1,55000,55000,Card,Mumbai
+1002,05-01-2024,Anita Verma,Mobile,Electronics,2,15000,,UPI,Delhi
+1003,2024/01/06,,Headphones,Electronics,1,2000,2000,Cash,Pune
+1004,2024-01-07,Suresh Patil,Chair,Furniture,3,2500,7500,,Bangalore
+1005,2024-01-08,Meena Joshi,Table,Furniture,,4000,4000,Card,Mumbai
+1006,2024-01-08,Rahul Sharma,Laptop,Electronics,1,55000,55000,Card,Mumbai
+1007,2024-01-09,Neha Singh,Mobile,Electronics,1,15000,15000,UPI,
+1008,09-01-2024,Arjun Mehta,Laptop,Electronics,1,54000,54000,card,Delhi
+1009,2024-01-10,Pooja Nair,Headphones,Electronics,2,2000,4000,CASH,Kochi
+1010,2024-01-10,Rahul Sharma,Laptop,Electronics,1,55000,55000,Card,Mumbai
+1011,2024-01-11,Anita Verma,Mobile Phone,Electronics,1,15000,15000,UPI,Delhi
+1012,2024-01-12,Neha Singh,Chair,Furniture,2,2500,5000,Card,Bangalore
+1013,12/01/2024,Ramesh Kumar,Table,Furniture,1,4000,4000,Cash,Chennai
+1014,2024-01-13,,Mobile,Electronics,1,15000,15000,UPI,Delhi
+1015,2024-01-14,Meena Joshi,Laptop,Electronics,1,55000,,Card,Mumbai
+1016,2024-01-14,Suresh Patil,Headphones,Electronics,-1,2000,-2000,Cash,Pune
+1017,2024-01-15,Pooja Nair,Chair,Furniture,1,2500,2500,UPI,Kochi
+1018,2024-01-15,Arjun Mehta,Laptop,Electronics,1,54000,54000,Card,Delhi
+1019,2024-01-16,Anita Verma,Mobile,Electronics,1,15000,15000,UPI,Delhi
+1020,2024-01-16,Ramesh Kumar,Table,Furniture,1,4000,4000,,Chennai
