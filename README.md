@@ -17,8 +17,6 @@ sales-data-cleaning/ │
                      
                      ├── sale.ipynb                # Jupyter Notebook with cleaning steps 
                      
-                     ├── panda.py                  # (Optional) Python script version
-                     
                      └── README.md                 # Project documentation
 
 
@@ -116,4 +114,5 @@ Through this project, I learned:
 
 ---
 ## 📌 Note
+
 This project is created for learning and practice purposes and demonstrates real-world data cleaning techniques.
